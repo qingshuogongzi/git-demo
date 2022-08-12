@@ -1,5 +1,8 @@
-hello gis
+ello gis
 
+
+<<<<<<< HEAD
 sfhqfqfefjiwejfiefj
 
 fhiegnwinwegi
+>>>>>>> hot-fix
